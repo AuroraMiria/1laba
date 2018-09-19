@@ -1,0 +1,11 @@
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\bin\Debug\netcoreapp2.1\1laba.deps.json
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\bin\Debug\netcoreapp2.1\1laba.runtimeconfig.json
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\bin\Debug\netcoreapp2.1\1laba.runtimeconfig.dev.json
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\bin\Debug\netcoreapp2.1\1laba.dll
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\bin\Debug\netcoreapp2.1\1laba.pdb
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.csprojAssemblyReference.cache
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.csproj.CoreCompileInputs.cache
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.AssemblyInfoInputs.cache
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.AssemblyInfo.cs
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.dll
+D:\Учеба\2 курс\3 сем\OOP\C#\1laba\obj\Debug\netcoreapp2.1\1laba.pdb
