@@ -236,7 +236,7 @@ namespace L2
             //e. Сравните два кортежа.
             (int, int) lb1 = (1, 1);
             (int, int) lb2 = (1, 1);
-            Console.WriteLine("\n2.e");
+            Console.WriteLine("\n3.e");
             if (lb1.Item1 ==lb2.Item1 && lb1.Item2 == lb2.Item2)
             {
                 Console.WriteLine("\tКортежи равны");
